@@ -30,7 +30,7 @@ require __DIR__ . '/../vendor/autoload.php';
 
 // ====================
 // 🚀 BOOTSTRAP LARAVEL
-// ====================
+// =================
 /** @var Application $app */
 $app = require_once __DIR__ . '/../bootstrap/app.php';
 
